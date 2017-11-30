@@ -1,0 +1,3 @@
+# CrashHandler
+非著名全局异常捕获类CrashHandler
+可导出崩溃日志到指定路径
